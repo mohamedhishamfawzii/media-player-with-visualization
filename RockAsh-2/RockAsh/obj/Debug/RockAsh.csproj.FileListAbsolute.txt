@@ -1,0 +1,65 @@
+\\mac\home\documents\visual studio 2015\Projects\RockAsh\RockAsh\bin\Debug\RockAsh.exe.config
+\\mac\home\documents\visual studio 2015\Projects\RockAsh\RockAsh\bin\Debug\RockAsh.exe
+\\mac\home\documents\visual studio 2015\Projects\RockAsh\RockAsh\bin\Debug\RockAsh.pdb
+\\mac\home\documents\visual studio 2015\Projects\RockAsh\RockAsh\obj\Debug\RockAsh.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\RockAsh\RockAsh\obj\Debug\RockAsh.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\RockAsh\RockAsh\obj\Debug\RockAsh.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\RockAsh\RockAsh\obj\Debug\RockAsh.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\RockAsh\RockAsh\obj\Debug\RockAsh.exe
+\\mac\home\documents\visual studio 2015\Projects\RockAsh\RockAsh\obj\Debug\RockAsh.pdb
+\\mac\home\documents\visual studio 2015\Projects\RockAsh\RockAsh\bin\Debug\Interop.WMPLib.dll
+\\mac\home\documents\visual studio 2015\Projects\RockAsh\RockAsh\bin\Debug\AxInterop.WMPLib.dll
+\\mac\home\documents\visual studio 2015\Projects\RockAsh\RockAsh\obj\Debug\Interop.WMPLib.dll
+\\mac\home\documents\visual studio 2015\Projects\RockAsh\RockAsh\obj\Debug\AxInterop.WMPLib.dll
+\\mac\home\documents\visual studio 2015\Projects\RockAsh\RockAsh\obj\Debug\RockAsh.csproj.ResolveComReference.cache
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\bin\Debug\RockAsh.exe.config
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\obj\Debug\Interop.WMPLib.dll
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\obj\Debug\AxInterop.WMPLib.dll
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\obj\Debug\RockAsh.csproj.ResolveComReference.cache
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\obj\Debug\RockAsh.exe
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\obj\Debug\RockAsh.pdb
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\bin\Debug\RockAsh.exe
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\bin\Debug\RockAsh.pdb
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\bin\Debug\mscorlib.dll
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\bin\Debug\normidna.nlp
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\bin\Debug\normnfc.nlp
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\bin\Debug\normnfd.nlp
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\bin\Debug\normnfkc.nlp
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\bin\Debug\normnfkd.nlp
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\bin\Debug\Interop.WMPLib.dll
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\bin\Debug\AxInterop.WMPLib.dll
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\obj\Debug\RockAsh.csprojResolveAssemblyReference.cache
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\obj\Debug\RockAsh.Form1.resources
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\obj\Debug\RockAsh.Properties.Resources.resources
+F:\Downloads\RockAsh 2\RockAsh\RockAsh\obj\Debug\RockAsh.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\RockAsh 3\RockAsh 2\RockAsh\RockAsh\bin\Debug\RockAsh.exe.config
+\\Mac\Home\Downloads\RockAsh 3\RockAsh 2\RockAsh\RockAsh\obj\Debug\Interop.WMPLib.dll
+\\Mac\Home\Downloads\RockAsh 3\RockAsh 2\RockAsh\RockAsh\obj\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Downloads\RockAsh 3\RockAsh 2\RockAsh\RockAsh\obj\Debug\RockAsh.csproj.ResolveComReference.cache
+\\Mac\Home\Downloads\RockAsh 3\RockAsh 2\RockAsh\RockAsh\obj\Debug\RockAsh.exe
+\\Mac\Home\Downloads\RockAsh 3\RockAsh 2\RockAsh\RockAsh\obj\Debug\RockAsh.pdb
+\\Mac\Home\Downloads\RockAsh 3\RockAsh 2\RockAsh\RockAsh\bin\Debug\RockAsh.exe
+\\Mac\Home\Downloads\RockAsh 3\RockAsh 2\RockAsh\RockAsh\bin\Debug\RockAsh.pdb
+\\Mac\Home\Downloads\RockAsh 3\RockAsh 2\RockAsh\RockAsh\bin\Debug\Interop.WMPLib.dll
+\\Mac\Home\Downloads\RockAsh 3\RockAsh 2\RockAsh\RockAsh\bin\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Downloads\RockAsh 3\RockAsh 2\RockAsh\RockAsh\obj\Debug\RockAsh.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\RockAsh 3\RockAsh 2\RockAsh\RockAsh\obj\Debug\RockAsh.Form1.resources
+\\Mac\Home\Downloads\RockAsh 3\RockAsh 2\RockAsh\RockAsh\obj\Debug\RockAsh.Properties.Resources.resources
+\\Mac\Home\Downloads\RockAsh 3\RockAsh 2\RockAsh\RockAsh\obj\Debug\RockAsh.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\RockAsh-2\RockAsh\bin\Debug\RockAsh.exe.config
+\\Mac\Home\Downloads\RockAsh-2\RockAsh\obj\Debug\Interop.WMPLib.dll
+\\Mac\Home\Downloads\RockAsh-2\RockAsh\obj\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Downloads\RockAsh-2\RockAsh\obj\Debug\RockAsh.csproj.ResolveComReference.cache
+\\Mac\Home\Downloads\RockAsh-2\RockAsh\obj\Debug\RockAsh.exe
+\\Mac\Home\Downloads\RockAsh-2\RockAsh\obj\Debug\RockAsh.pdb
+\\Mac\Home\Downloads\RockAsh-2\RockAsh\bin\Debug\RockAsh.exe
+\\Mac\Home\Downloads\RockAsh-2\RockAsh\bin\Debug\RockAsh.pdb
+\\Mac\Home\Downloads\RockAsh-2\RockAsh\bin\Debug\NAudio.dll
+\\Mac\Home\Downloads\RockAsh-2\RockAsh\bin\Debug\Interop.WMPLib.dll
+\\Mac\Home\Downloads\RockAsh-2\RockAsh\bin\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Downloads\RockAsh-2\RockAsh\obj\Debug\RockAsh.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\RockAsh-2\RockAsh\obj\Debug\RockAsh.Form1.resources
+\\Mac\Home\Downloads\RockAsh-2\RockAsh\obj\Debug\RockAsh.Properties.Resources.resources
+\\Mac\Home\Downloads\RockAsh-2\RockAsh\obj\Debug\RockAsh.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\RockAsh-2\RockAsh\bin\Debug\WPFSoundVisualizationLib.dll
+\\Mac\Home\Downloads\RockAsh-2\RockAsh\obj\Debug\RockAsh.CustomWaveViewer.resources
